@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan Get Data</string>
+    <string name="login">LOGIN</string>
+    <string name="ini_adalah_tampilan_hasil">Ini adalah Tampilan Hasil</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+</resources>
